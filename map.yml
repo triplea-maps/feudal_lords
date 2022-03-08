@@ -1,0 +1,5 @@
+map_name: feudal_lords-master
+games:
+- game_name: Feudal Lords
+  file_name: FeudalLords.xml
+version: 0
